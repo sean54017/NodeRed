@@ -1,0 +1,1 @@
+[{"id":"a0ce5b59.bee6d8","type":"function","z":"aa67a6d3.eb6618","name":"Get GPIO","func":"msg.payload = global.get(\"GPIO\");\nreturn msg;","outputs":1,"noerr":0,"x":310,"y":160,"wires":[["93c7a084.e3359","2a162972.e6cfb6"]]}]
