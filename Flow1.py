@@ -1,0 +1,1 @@
+[{"id":"329aa228.54f78e","type":"change","z":"f5b28d36.968be","name":"0->1","rules":[{"t":"set","p":"payload","pt":"msg","to":"1","tot":"str"}],"action":"","property":"","from":"","to":"","reg":false,"x":430,"y":220,"wires":[["a9235cfa.0c965"]]}]
